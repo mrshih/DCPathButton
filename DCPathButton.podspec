@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
 	:tag => "v2.0.3"
   }
 
-  s.source_files  = 'DCPathButton/Classes/*.{h,m}'
+  s.source_files  = 'Example/Pods/DCPathButton/DCPathButton/Classes/*.{h,m}'
 
   s.resources  = ["DCPathButton/Sounds/*"]
 
